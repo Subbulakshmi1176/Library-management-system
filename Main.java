@@ -3,8 +3,8 @@ import java.util.*;
 import java.util.Scanner;
 
 public class Main {
-	private static final String adminEmail="jd@gmail.com";
-	private static final String adminPassword="dinesh@123";
+	private static final String adminEmail="subbulakshmi1176@gmail.com";
+	private static final String adminPassword="subbu175";
 	public static ArrayList<Customer> customerList=new ArrayList<>();
 	public static ArrayList<Book>  bookList=new ArrayList<>();
 	public static HashMap<Integer,Book> bookMap=new HashMap<>();
